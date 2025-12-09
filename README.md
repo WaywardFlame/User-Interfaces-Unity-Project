@@ -10,6 +10,8 @@ The game itself is clearly unfinished, but we did at least manage to get an actu
 
 As with any project, there were some frustrations, but on the whole, I enjoyed working with my group, and am proud of what we were able to create together.
 
+Video link showing some gameplay: https://youtu.be/0Pjk3AAs9vI
+
 Disclaimer:
 
 If you are a student, then feel to take inspiration from our project, but know that we are not responsible for any consequences that may arise from your use of our code. Follow your professor's instructions, don't blindly copy code from the internet, and be responsible. If you do use some of our code, then be sure to credit us.
