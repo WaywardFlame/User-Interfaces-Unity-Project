@@ -9,3 +9,7 @@ In our user interfaces class, we had to work on a semester long group project. W
 The game itself is clearly unfinished, but we did at least manage to get an actual working prototype that allows the player to take on quests, engage with some enemies in turn based combat, customize their character a little, purchase items from a shop, and view their health and magic. Basically, as a game, it is unfinished, as a prototype, I would call it finished for what it is.
 
 As with any project, there were some frustrations, but on the whole, I enjoyed working with my group, and am proud of what we were able to create together.
+
+Disclaimer:
+
+If you are student, then feel to take inspiration from our project, but know that we are not responsible for any consequences that may arise from your use of our code. Follow your professor's instructions, don't blindly copy code from the internet, and be responsible. If you do use some of our code, then be sure to credit us.
