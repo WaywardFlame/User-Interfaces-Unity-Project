@@ -12,4 +12,4 @@ As with any project, there were some frustrations, but on the whole, I enjoyed w
 
 Disclaimer:
 
-If you are student, then feel to take inspiration from our project, but know that we are not responsible for any consequences that may arise from your use of our code. Follow your professor's instructions, don't blindly copy code from the internet, and be responsible. If you do use some of our code, then be sure to credit us.
+If you are a student, then feel to take inspiration from our project, but know that we are not responsible for any consequences that may arise from your use of our code. Follow your professor's instructions, don't blindly copy code from the internet, and be responsible. If you do use some of our code, then be sure to credit us.
